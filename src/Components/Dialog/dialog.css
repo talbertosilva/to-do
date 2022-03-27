@@ -1,0 +1,19 @@
+.seila{
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    min-width: 400px;
+    padding: 32px;
+    overflow: -moz-hidden-unscrollable;
+}
+
+.css-1t1j96h-MuiPaper-root-MuiDialog-paper {
+    overflow: hidden;
+}
+
+.seila input[type="date"]{
+    border: 0;
+    margin: 24px 0px;
+}
